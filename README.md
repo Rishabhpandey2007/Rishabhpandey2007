@@ -99,7 +99,7 @@ B.Tech IT Student | AI & Machine Learning Enthusiast | DSA Learner
 
 <p align="left">
 
-<a href="www.linkedin.com/in/rishabh-pandey-161642378">
+<a href="https://www.linkedin.com/in/rishabh-pandey-161642378/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
