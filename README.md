@@ -45,7 +45,7 @@ B.Tech IT Student | AI & Machine Learning Enthusiast | DSA Learner
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <p align="left">
 
@@ -73,7 +73,7 @@ B.Tech IT Student | AI & Machine Learning Enthusiast | DSA Learner
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -83,15 +83,15 @@ B.Tech IT Student | AI & Machine Learning Enthusiast | DSA Learner
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-🚀 BRD Genie — AI Powered BRD Generator
+ BRD Genie — AI Powered BRD Generator
 
-🤖 AI Study Assistant
+ AI Study Assistant
 
-📚 DSA in C++
+ DSA in C++
 
-🌐Campusbooks- A student book marketplace
+Campusbooks- A student book marketplace
 
 ---
 
